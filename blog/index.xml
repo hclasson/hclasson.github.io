@@ -12,9 +12,18 @@
     
     
     <item>
+      <title>Quarantine Edition</title>
+      <link>https://hclasson.github.io/blog/quarantine-edition/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hclasson.github.io/blog/quarantine-edition/</guid>
+      <description>Are you wondering what to do during quarantine? Here are some tips and tricks to get you through.</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>https://hclasson.github.io/blog/hello-world/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hclasson.github.io/blog/hello-world/</guid>
       <description>Hello, world this is Hannah Classon!</description>
